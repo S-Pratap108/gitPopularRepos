@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.btn {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  border-color: azure;
+  cursor: pointer;
+}
+
+.selected-btn {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  border-color: blue;
+  border-style: solid;
+  border-width: 2px;
+  background-color: transparent;
+  cursor: pointer;
+}
